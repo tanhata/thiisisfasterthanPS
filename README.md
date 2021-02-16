@@ -3,4 +3,3 @@
 Quick code to execute some cool gifs for projects, academic, proefessional and personal. 
 
 ![](Harlem.gif)
-![](drawingsdensity.gif)
